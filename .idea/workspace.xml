@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d896c8b2-40f9-4c03-ae23-8aeab27f0d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drafts/RamdaneKieran/marketOperatorclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drafts/RamdaneKieran/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LMP_NZ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LMP_NZ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/MarketOperator/marketOperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/MarketOperator/marketOperator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,9 @@
       <module name="LMP_NZ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drafts/RamdaneKieran" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -135,14 +135,14 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="124" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1585438002687" />
-    <state x="446" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1585608947359">
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1586625424519">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="446" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1585608947359" />
-    <state x="558" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585609131842">
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1586625424519" />
+    <state x="558" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586625541745">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="558" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1585609131842" />
+    <state x="558" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1586625541745" />
     <state x="417" y="210" key="search.everywhere.popup" timestamp="1585608995813">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
